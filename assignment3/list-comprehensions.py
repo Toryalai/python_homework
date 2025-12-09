@@ -7,16 +7,10 @@ with open("./csv/employees.csv") as file:
     for row in reader:
         employees.append(row)
 
-names = []
-for row in employees[1:]:
-    full_name = row[1] + " " + row[2]
-    names.append(full_name)
-
+# List comprehension for full list of names
+names = [row[1] + " " + row[2] for row in employees[1:]]
 print("Full list of names: " + str(names))
 
-names_with_e = []
-for name in names:
-    if "e" in name.lower():
-        names_with_e.append(name)
-
+# List comprehension for names containing the letter "e"
+names_with_e = [name for name in names if "e" in name.lower()]
 print("\nNames that contain the letter 'e': " + str(names_with_e))
