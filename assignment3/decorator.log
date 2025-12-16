@@ -1,0 +1,15 @@
+function: hello
+positional parameters: none
+keyword parameters: none
+return: None
+--------------------
+function: many_args
+positional parameters: [1, 2, 3]
+keyword parameters: none
+return: True
+--------------------
+function: many_kwargs
+positional parameters: none
+keyword parameters: {'name': 'Bob', 'age': 20}
+return: <function logger_decorator at 0x0000021F6CC196C0>
+--------------------
