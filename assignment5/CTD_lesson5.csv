@@ -1,0 +1,1001 @@
+Name,Age,Salary,Join Date,City
+Richard,87,63463,2002-04-13,LA
+Dana,53,99436,2004-09-13,
+Theresa,45,93870,2019-02-08,Chicago
+Kristin,30,70462,2021-12-27,Chicago
+Kevin,91,92534,2001-07-14,Houston
+Joshua,51,75929,2003-01-10,Chicago
+Jason,93,61186,2008-06-20,NYC
+Maurice,25,77070,2016-08-11,Houston
+Jessica,86,82018,2021-03-16,Chicago
+Randall,107,83020,2022-03-31,Houston
+Henry,-3,83945,2008-04-16,Los Angeles
+Leonard,113,91737,2022-09-03,NYC
+Susan,,54772,2000-01-06,New York City
+Matthew,110,53738,2006-04-11,LA
+Patricia,56,79531,2023-05-02,
+Brenda,9,88045,2021-04-12,Los Angeles
+Kevin,17,86251,2011-10-10,LA
+Luis,31,85121,2006-06-27,LA
+Richard,75,94325,2006-02-14,New York City
+Daniel,,77603,2002-02-11,New York City
+Antonio,91,61204,2024-10-18,Los Angeles
+Julia,24,80790,2010-03-19,NYC
+Shawn,12,86572,2002-07-28,Chicago
+Eric,15,78595,2022-07-28,New York City
+Joann,32,70280,2001-01-11,Los Angeles
+Kimberly,101,50571,2024-11-16,Chicago
+Ryan,33,89304,2020-11-15,Houston
+Jeremy,48,96443,2020-02-12,LA
+James,116,69958,2019-09-22,NYC
+Christopher,102,78000,2002-01-31,New York City
+Bryan,100,58568,2005-01-29,NYC
+Daniel,25,93116,2005-10-13,
+John,,77813,2022-07-16,Chicago
+Paul,88,76043,2010-04-13,Los Angeles
+,72,54085,2019-06-04,New York City
+Ryan,62,58336,2008-12-28,LA
+Kathryn,106,62520,2008-03-28,Houston
+Brittany,13,88495,2021-01-10,LA
+William,101,83805,2021-04-16,New York City
+Susan,20,68853,2008-09-13,LA
+Charles,-2,66622,2012-08-11,
+Stephen,12,71891,2008-07-05,Houston
+Jacqueline,,93423,2010-08-28,
+Alexis,32,95845,2013-02-11,Houston
+,107,90152,2006-01-16,Los Angeles
+Jeremy,10,93049,2020-07-05,Chicago
+Christopher,109,65831,2022-03-21,
+Jacqueline,30,62538,2014-09-22,LA
+Peggy,54,96622,2014-08-30,Los Angeles
+Carlos,11,68433,2019-09-12,
+Erik,7,82393,2017-07-24,LA
+Joseph,28,96361,2012-11-10,LA
+Deborah,13,93725,2005-04-05,LA
+John,84,76497,2019-01-19,LA
+Gabriel,87,52935,2000-12-21,Los Angeles
+Jason,35,67887,2023-12-18,NYC
+Savannah,1,78047,2006-12-19,
+Kevin,34,59709,2013-12-17,NYC
+Steven,83,60853,2001-10-23,Houston
+Julie,80,51806,2009-04-16,New York City
+Daniel,0,56020,2020-01-30,Chicago
+Joshua,,98365,2007-05-01,
+Linda,87,96723,2022-03-14,
+Emily,85,81573,2016-04-07,NYC
+Daniel,26,50884,2003-10-15,LA
+Sherry,120,80978,2001-06-25,NYC
+Curtis,112,59232,2023-11-28,Houston
+Adam,118,51864,2007-10-24,NYC
+Ryan,16,72279,2019-04-23,NYC
+Chad,43,76133,2012-05-08,Chicago
+Jason,,93051,2016-07-24,NYC
+Arthur,82,68822,2002-09-07,New York City
+Robin,49,93361,2023-06-26,Chicago
+David,,90547,2023-03-01,New York City
+Kelly,24,92368,2015-08-06,New York City
+Logan,30,53897,2020-04-14,NYC
+Kimberly,49,77117,2002-08-24,Houston
+,116,56255,2017-04-07,NYC
+Kelly,86,52832,2018-10-02,New York City
+Shawn,4,59644,2005-12-19,LA
+,81,64700,2021-06-10,New York City
+William,,72818,2015-02-23,New York City
+Jennifer,78,61113,2014-10-20,NYC
+Tracy,79,65499,2010-07-16,Los Angeles
+Tami,9,51856,2021-10-09,Los Angeles
+Lisa,-5,52174,2002-08-19,New York City
+Joseph,49,54421,2014-06-13,
+Thomas,101,88369,2009-08-10,Los Angeles
+Michael,56,78115,2015-04-30,Los Angeles
+Samuel,,53939,2005-07-30,LA
+Brian,,94878,2019-01-26,Los Angeles
+Tanya,115,70184,2008-05-09,LA
+Christopher,47,51841,2018-09-22,LA
+Cody,87,61449,2022-05-02,New York City
+Michael,52,56836,2016-05-14,Chicago
+Barbara,109,71321,2005-04-10,Los Angeles
+Keith,57,54121,2022-03-24,LA
+Melinda,-7,95008,2012-06-27,Houston
+Christopher,66,64646,2017-04-21,Houston
+Leah,17,82208,2017-08-15,New York City
+Christopher,41,51028,2008-07-10,LA
+Alexandria,92,59440,2004-11-20,
+Joshua,,94835,2003-06-12,LA
+Lindsey,21,98075,2011-07-13,Chicago
+Gregory,108,80748,2020-08-15,Chicago
+Melissa,14,74657,2017-11-12,Houston
+Anne,,61412,2014-02-16,Los Angeles
+Jeffrey,0,77924,2016-05-11,NYC
+Andrew,35,76398,2017-07-16,New York City
+Nicholas,27,85328,2022-02-16,New York City
+Julie,60,65078,2017-01-28,Houston
+Ashley,61,50869,2016-12-02,New York City
+John,56,98592,2014-05-13,LA
+Jared,-9,54135,2005-08-11,New York City
+Laura,78,72781,2022-05-13,
+Mark,2,95582,2010-10-28,Los Angeles
+Anthony,99,89106,2003-01-11,NYC
+Michelle,98,96664,2019-12-22,Chicago
+Wendy,105,81178,2014-09-13,LA
+Cynthia,17,99357,2000-10-02,LA
+Madison,112,54828,2016-10-30,Chicago
+Clayton,118,56629,2003-07-25,NYC
+Joseph,,93273,2015-07-03,New York City
+Sean,101,92086,2004-05-19,New York City
+Adam,,66978,2011-06-22,Chicago
+Kelly,89,70683,2006-03-22,Chicago
+Meghan,85,68521,2014-07-25,NYC
+Susan,5,79192,2012-03-12,
+Katherine,-9,55206,2017-04-27,Los Angeles
+Shannon,80,84530,2009-10-13,New York City
+Cynthia,56,86016,2017-12-16,New York City
+Melanie,84,67847,2007-09-02,LA
+Stephanie,41,84898,2002-12-28,Los Angeles
+Lori,,76401,2014-11-14,Houston
+Patrick,92,83481,2020-11-12,Houston
+Jill,44,61631,2013-09-03,Chicago
+Kelly,52,92128,2022-10-17,Houston
+Vanessa,109,66639,2019-10-23,Chicago
+Stephanie,76,67322,2020-04-30,Los Angeles
+Robert,108,80080,2009-07-19,Los Angeles
+Lisa,118,91190,2004-06-12,Los Angeles
+Stephen,68,81397,2019-09-19,Los Angeles
+Denise,57,64653,2002-02-04,Chicago
+Jaclyn,100,71826,2016-03-30,Chicago
+Tyler,90,98836,2014-06-03,NYC
+Kristy,24,73595,2013-05-21,NYC
+Steven,118,76490,2000-03-31,Houston
+Anthony,109,88535,2005-01-09,Chicago
+Alexis,41,74635,2007-01-20,Houston
+Jose,29,58751,2002-09-12,
+Caitlin,10,84848,2020-03-28,Chicago
+Allison,51,71775,2021-03-17,Los Angeles
+Ashley,1,72313,2023-10-20,Houston
+Francisco,,64059,2013-11-28,Chicago
+Jeffrey,,93734,2000-05-25,Houston
+Nicole,,67312,2017-01-31,New York City
+Jason,80,83393,2005-01-09,New York City
+Virginia,1,82862,2023-05-06,
+Tyler,62,94237,2006-05-20,
+Rachel,55,98581,2015-08-25,Los Angeles
+Megan,34,79501,2021-04-21,Houston
+Evan,96,72324,2002-11-19,New York City
+Katie,21,85089,2005-03-15,
+Eric,6,81513,2011-04-04,LA
+Reginald,99,60876,2015-06-09,
+Valerie,-6,81323,2014-07-12,NYC
+Michael,110,91863,2020-12-16,NYC
+Donna,,84670,2016-09-04,NYC
+Shannon,,61776,2023-07-05,LA
+Tammy,13,54266,2021-01-09,Chicago
+Chelsea,54,65346,2003-05-13,Houston
+Jessica,46,75771,2016-09-04,Chicago
+Jacob,9,82955,2019-01-11,Houston
+Ian,73,96978,2022-04-06,Chicago
+Judy,117,64667,2008-06-30,Houston
+James,,85232,2017-07-10,NYC
+Mackenzie,26,93486,2023-04-15,Houston
+Anthony,,91442,2004-12-13,Chicago
+Tara,35,99274,2016-11-10,Chicago
+David,71,87515,2019-10-04,LA
+Regina,21,50948,2002-07-28,Houston
+Shelley,,78109,2015-01-09,NYC
+Debra,11,92817,2002-09-06,LA
+Tyler,93,59352,2014-10-30,New York City
+Elizabeth,96,61143,2010-05-30,LA
+Brenda,-9,86470,2009-03-22,Houston
+Steven,,87972,2002-03-26,New York City
+Christina,7,78508,2006-01-10,Houston
+,103,65748,2006-09-20,
+Danielle,55,54864,2017-02-11,New York City
+Angela,98,88405,2014-12-11,New York City
+,17,96620,2005-04-04,
+Michelle,43,83337,2004-03-15,New York City
+,117,65158,2003-02-28,Houston
+Ryan,83,56346,2005-05-09,Houston
+Matthew,10,85342,2017-01-10,New York City
+Laura,3,60136,2013-09-06,Chicago
+Kaitlyn,65,85192,2002-10-04,
+Jonathan,60,57827,2017-03-08,Houston
+Anthony,108,99035,2017-11-21,Houston
+Peggy,,76065,2017-03-14,Chicago
+Eric,6,72138,2022-07-09,
+Stephanie,91,81949,2016-11-19,NYC
+Kimberly,59,76296,2012-10-28,New York City
+Courtney,98,65151,2013-01-15,
+Daniel,25,60294,2013-11-17,LA
+John,61,83551,2006-12-20,Houston
+Holly,88,74311,2017-01-27,Houston
+Vincent,46,85668,2001-01-07,Chicago
+Lorraine,47,56516,2016-06-05,
+,-10,88513,2007-07-20,Houston
+,78,91735,2008-02-06,Houston
+Larry,35,64783,2006-10-10,Los Angeles
+Tommy,44,95910,2013-05-07,Los Angeles
+Christopher,96,64883,2014-05-29,NYC
+Cynthia,106,76880,2006-12-12,
+,62,80701,2013-12-07,Los Angeles
+Kathryn,53,78732,2016-04-24,Houston
+Timothy,77,75884,2014-06-05,New York City
+Tamara,62,59628,2009-10-11,Los Angeles
+Tracey,97,86913,2024-08-29,New York City
+Ryan,98,59872,2006-04-21,Chicago
+Robert,13,93431,2020-04-25,Houston
+Christine,-8,52375,2012-10-31,LA
+Shannon,-8,80877,2009-04-10,LA
+John,33,54186,2001-02-10,LA
+David,104,50596,2003-11-18,Los Angeles
+Audrey,11,77077,2010-07-22,New York City
+Erica,-9,68199,2022-12-01,Houston
+Mary,45,71735,2012-06-17,NYC
+Christopher,94,52939,2006-07-28,Chicago
+Heidi,,60908,2010-01-19,
+Kimberly,105,52244,2015-05-02,Chicago
+Cynthia,16,92777,2014-12-09,LA
+Bryan,,75670,2014-04-25,NYC
+Patricia,113,63219,2023-07-10,NYC
+Deborah,112,61003,2022-09-07,NYC
+Nicole,82,52633,2015-07-07,Houston
+Steven,27,52622,2017-01-08,Los Angeles
+Sandra,,66139,2000-02-07,New York City
+Jessica,44,77588,2019-12-27,Los Angeles
+Melanie,,87270,2007-04-12,NYC
+Sara,72,53573,2021-02-03,Los Angeles
+Marc,4,71177,2000-01-03,Chicago
+David,4,65950,2004-03-23,NYC
+Stephanie,54,50008,2010-07-03,Chicago
+Dana,4,88682,2003-11-28,
+Robert,44,97194,2010-04-18,New York City
+Jennifer,27,85971,2002-05-22,Chicago
+Jeremy,,62226,2003-04-26,Chicago
+Charlotte,32,75379,2013-02-02,NYC
+Donna,104,53465,2020-07-01,Los Angeles
+Tiffany,1,91752,2006-07-19,New York City
+John,116,81479,2012-02-09,Houston
+Tiffany,18,55312,2006-06-25,Houston
+Maurice,22,92454,2023-08-22,
+,102,94066,2017-10-08,NYC
+Tara,15,89414,2002-11-27,Los Angeles
+Carolyn,99,64288,2008-07-14,New York City
+Alicia,67,90117,2005-09-30,New York City
+Linda,110,65919,2018-04-01,
+Michael,28,89039,2001-08-11,Houston
+Melissa,,60564,2000-02-03,Chicago
+William,60,55546,2012-02-12,Los Angeles
+Keith,61,96178,2014-06-24,LA
+Michael,49,84214,2010-09-08,LA
+Christopher,26,63410,2022-03-19,LA
+Emily,-4,96989,2022-10-08,New York City
+Manuel,-3,75675,2016-01-22,Houston
+Justin,0,52037,2018-03-25,Los Angeles
+Carl,17,56742,2010-03-22,NYC
+Shane,100,58190,2012-02-08,Los Angeles
+Kathy,33,89079,2000-06-06,
+Don,64,86901,2022-01-29,NYC
+Gregory,32,88986,2000-08-26,LA
+Christopher,109,51902,2007-06-17,Houston
+Austin,28,68416,2020-02-03,Houston
+Kristina,27,54881,2007-10-14,Chicago
+Katherine,85,90705,2007-09-02,LA
+Thomas,54,85362,2019-07-06,LA
+Rachel,86,56518,2007-12-21,Los Angeles
+Lindsay,50,97247,2015-07-16,Chicago
+Joe,-3,85828,2007-01-23,Houston
+Patrick,63,50544,2008-06-19,Los Angeles
+Nicholas,10,57301,2011-05-15,NYC
+Phillip,110,64148,2010-09-16,
+Suzanne,60,54629,2004-02-10,NYC
+Manuel,70,65272,2004-11-02,NYC
+Kevin,67,50502,2015-05-15,Los Angeles
+,100,88735,2024-10-04,Chicago
+Maureen,15,85219,2016-02-18,Houston
+Catherine,71,80903,2006-08-30,
+Shane,102,52232,2009-08-26,NYC
+Sarah,,67517,2020-01-18,
+Isabella,112,52638,2012-11-19,New York City
+Julia,0,54850,2022-02-05,
+Kathy,80,95198,2019-02-07,LA
+Timothy,89,59650,2017-07-24,NYC
+Lori,-10,86218,2001-06-23,NYC
+Cheryl,99,57521,2022-03-20,
+Danielle,,55637,2013-10-04,Los Angeles
+Sandra,69,50885,2002-03-02,New York City
+Sara,12,54759,2023-12-28,
+David,10,80427,2007-09-20,New York City
+Andrew,91,74059,2008-10-22,
+Peter,87,78576,2017-02-25,LA
+Tracy,-2,96124,2015-04-19,
+Joseph,-3,50854,2007-10-20,NYC
+Raymond,74,80040,2018-03-19,Chicago
+Denise,-2,69340,2011-01-19,Chicago
+Juan,24,76872,2000-08-15,NYC
+Jessica,71,83782,2015-11-07,Los Angeles
+Julie,,86821,2015-12-29,Chicago
+Laura,37,87819,2008-02-12,NYC
+Joel,67,60628,2022-06-11,Chicago
+Patricia,53,76135,2011-05-13,Chicago
+Michael,,77743,2013-12-03,Chicago
+John,93,50199,2019-11-27,Houston
+Samuel,72,95151,2003-04-20,NYC
+Todd,87,73864,2023-02-23,Chicago
+Andrew,,73699,2001-03-18,New York City
+Jeffery,90,85813,2023-11-27,NYC
+Catherine,116,89606,2014-04-13,Chicago
+Shannon,31,61965,2015-04-10,NYC
+Hayley,64,55384,2004-09-03,New York City
+Shelia,73,91707,2007-11-23,Chicago
+Steven,59,70580,2005-12-23,NYC
+Anthony,20,68262,2018-02-19,Los Angeles
+Steven,109,96089,2013-09-10,New York City
+,1,87823,2008-03-02,NYC
+Paula,68,54681,2024-05-11,
+Christie,36,77670,2011-08-31,NYC
+William,102,67272,2016-05-06,Chicago
+Vanessa,80,73719,2008-02-18,LA
+Nicholas,29,66948,2013-07-18,
+Karen,-9,70887,2010-03-10,New York City
+Sydney,,76653,2009-10-17,NYC
+Amanda,47,99873,2004-06-02,Chicago
+Rebekah,0,61896,2004-11-12,LA
+Jennifer,61,71727,2019-01-10,
+Calvin,71,56773,2014-01-19,NYC
+Walter,56,67831,2024-02-07,Los Angeles
+Charles,61,51093,2021-12-29,
+Vincent,-8,74905,2005-11-10,NYC
+Joshua,38,72755,2004-07-10,Los Angeles
+Mariah,48,92728,2016-10-09,Los Angeles
+Steven,8,82078,2010-05-27,New York City
+Justin,,73065,2020-08-21,Houston
+Brett,92,83438,2004-11-16,LA
+William,-1,72924,2001-04-10,
+Michael,14,63425,2004-07-20,New York City
+Heidi,43,87878,2002-06-01,LA
+Hannah,18,59381,2019-05-26,NYC
+Angela,112,51980,2017-12-18,Chicago
+Christopher,63,60127,2008-04-08,LA
+Nathan,95,62985,2016-07-01,NYC
+Samantha,37,75677,2004-03-25,LA
+Steven,,67209,2012-01-28,Houston
+Gregory,101,70049,2023-10-24,Los Angeles
+,-7,87723,2022-09-28,Houston
+Robin,41,96610,2005-01-31,LA
+Joseph,51,77003,2009-08-08,Houston
+Sarah,2,53956,2019-02-22,Chicago
+Blake,84,74173,2006-06-07,Houston
+Marcus,38,83007,2001-11-04,
+Denise,46,83209,2014-09-22,New York City
+Dawn,90,83996,2014-03-07,Los Angeles
+Emily,62,75576,2004-09-15,New York City
+Theresa,53,67085,2009-08-17,NYC
+Maxwell,109,79117,2021-10-11,Houston
+Michael,,84757,2008-08-18,New York City
+Michael,117,86636,2000-02-06,Los Angeles
+Michael,70,73381,2005-05-28,Chicago
+Janice,91,92982,2010-12-08,Chicago
+Ashley,100,79586,2014-10-18,Los Angeles
+Caitlin,32,85695,2002-10-29,LA
+Danielle,34,57050,2012-01-23,NYC
+Wesley,60,80504,2014-09-11,LA
+Denise,33,52445,2007-05-10,NYC
+,,53360,2019-11-27,Houston
+Tonya,119,72632,2024-08-18,Houston
+James,108,56451,2005-10-16,NYC
+Richard,35,71908,2020-02-06,LA
+Larry,-2,70642,2015-09-01,
+Brandon,76,84097,2002-07-06,New York City
+Justin,50,78548,2023-11-22,LA
+Mary,116,97441,2009-11-23,LA
+Miranda,59,81332,2013-07-19,Los Angeles
+Wendy,31,78838,2023-05-13,New York City
+,53,54762,2000-05-12,Los Angeles
+Ryan,54,75751,2009-12-12,
+Emily,46,85408,2010-07-18,New York City
+Becky,,80085,2016-01-09,LA
+Julian,,58526,2005-11-20,Chicago
+Anthony,104,65830,2016-05-26,LA
+Amanda,12,54721,2018-04-01,NYC
+Rebecca,49,92068,2011-08-07,NYC
+Cynthia,103,63754,2008-12-10,Houston
+Chelsea,,78952,2006-10-07,Chicago
+Stacey,64,53860,2024-04-10,Chicago
+Andrew,-4,60989,2000-01-20,NYC
+Eric,3,56506,2017-01-10,Chicago
+,95,67968,2009-07-18,
+Laura,,90289,2022-04-08,Houston
+Jonathan,-9,51511,2021-12-30,Chicago
+Heather,89,98389,2005-10-17,Chicago
+Kelsey,0,63316,2020-02-29,Chicago
+Stephen,17,59858,2008-09-04,New York City
+Renee,,54781,2013-12-08,NYC
+Wendy,,52611,2000-03-30,LA
+Jamie,-2,70668,2025-01-23,Chicago
+Jacob,120,59224,2020-01-06,NYC
+Alexander,56,59046,2018-06-13,NYC
+Anna,86,59356,2021-03-21,
+Carl,0,97838,2011-09-24,Chicago
+William,110,82687,2022-10-22,Los Angeles
+Edward,-3,59332,2000-05-13,Chicago
+Jack,118,59729,2015-03-17,NYC
+Jimmy,117,92905,2024-12-14,Houston
+Jessica,74,50757,2013-10-05,LA
+Rhonda,52,52553,2010-08-15,LA
+Steven,112,59213,2008-05-13,NYC
+Melissa,79,78516,2017-01-01,NYC
+Jimmy,32,61216,2012-12-09,LA
+Nicole,,73142,2019-06-26,NYC
+Amanda,67,97644,2024-11-06,Los Angeles
+Sarah,85,57366,2015-12-17,
+Darrell,88,78477,2006-09-07,LA
+Cheryl,88,96399,2002-03-31,
+Courtney,90,64176,2005-10-09,LA
+Leah,96,72171,2008-11-05,Houston
+Colton,15,81277,2008-07-10,
+Amber,94,71909,2019-08-12,New York City
+Mackenzie,115,59953,2002-09-30,Houston
+Andrew,0,94196,2015-02-16,Houston
+Scott,116,82660,2007-07-08,Houston
+Jonathan,42,86225,2002-10-30,New York City
+Catherine,18,50080,2025-02-01,Chicago
+Shirley,11,51336,2005-12-28,LA
+Susan,97,80932,2019-11-22,Los Angeles
+Derek,55,58402,2005-08-06,Houston
+Mark,54,59782,2018-08-13,New York City
+,48,89593,2002-02-05,LA
+Jessica,52,75625,2013-11-12,Chicago
+Ashley,14,76391,2012-09-10,Houston
+John,,83434,2001-09-30,Chicago
+Whitney,41,93800,2011-04-15,Chicago
+Jonathan,-2,61615,2018-12-10,
+Amanda,2,98838,2005-08-15,Houston
+Kaitlyn,29,57537,2007-11-01,NYC
+Emily,85,98603,2004-02-27,NYC
+John,44,52871,2011-08-17,Houston
+Tanya,55,72036,2022-10-26,LA
+Amber,114,95591,2018-02-01,Chicago
+,,78875,2016-08-08,Houston
+David,,76800,2013-10-31,New York City
+Henry,35,58372,2014-01-22,Houston
+Karen,43,67079,2021-03-16,Los Angeles
+Carlos,42,78266,2018-11-02,LA
+Patricia,105,53747,2014-03-14,NYC
+Don,30,83024,2005-12-04,Houston
+Brett,45,60403,2000-08-05,Los Angeles
+Tyler,77,68016,2009-09-20,Houston
+Beth,93,59244,2011-03-15,NYC
+Russell,-8,89526,2014-10-08,NYC
+Christine,,53788,2015-12-20,Chicago
+Jose,28,51835,2002-08-27,Houston
+Joseph,23,88011,2022-09-10,Chicago
+Carlos,27,69572,2022-09-21,Chicago
+Daryl,100,64708,2022-11-23,New York City
+Noah,53,97110,2001-09-08,Houston
+Jessica,1,79133,2018-11-01,NYC
+Sarah,,53869,2008-05-23,
+Emma,112,68526,2004-11-01,New York City
+Andrew,86,52815,2022-06-27,LA
+William,11,98308,2007-07-13,
+Jack,-3,60985,2008-05-15,Los Angeles
+Kevin,40,87012,2017-12-10,Los Angeles
+,-1,65550,2004-06-09,Chicago
+Justin,3,85339,2013-07-04,Houston
+Dean,,62829,2006-09-08,NYC
+Nicole,0,72511,2021-08-01,Houston
+Ronald,14,50142,2019-08-12,New York City
+Ricky,40,53544,2025-01-13,NYC
+Kenneth,56,57647,2021-04-23,LA
+Rebecca,21,95656,2019-02-18,Houston
+Michael,25,68163,2013-07-22,Houston
+Amanda,105,79598,2003-06-12,LA
+Rebecca,57,69355,2014-02-06,New York City
+Laura,112,94537,2004-10-02,New York City
+Garrett,94,55518,2001-07-24,
+Jacob,39,57250,2022-05-25,Chicago
+Michael,50,56540,2003-05-21,Chicago
+Jeffrey,14,73355,2006-06-13,
+Amanda,30,53329,2002-12-01,LA
+Carol,113,52465,2002-11-27,Los Angeles
+Shannon,,62575,2022-08-10,Los Angeles
+,49,53515,2006-10-29,Los Angeles
+Jennifer,84,93913,2003-04-12,LA
+Jamie,29,85665,2010-10-12,Houston
+Beth,57,77105,2020-12-02,
+Lori,13,60383,2002-08-22,LA
+Brandy,72,70943,2006-06-28,New York City
+Austin,9,95359,2022-08-24,Los Angeles
+Debra,90,93126,2006-01-26,Houston
+Jennifer,118,73373,2009-09-26,Chicago
+,85,57256,2014-12-15,Chicago
+Samuel,57,92902,2013-02-19,Houston
+Shane,82,80918,2022-01-23,LA
+David,,96123,2006-07-09,Houston
+Jenny,20,64444,2010-05-12,Los Angeles
+Jacob,86,55636,2005-03-12,NYC
+Linda,81,93746,2011-11-02,Chicago
+Mark,27,80845,2007-07-28,Chicago
+Justin,31,57824,2013-07-02,Chicago
+Alyssa,109,81701,2018-05-05,Chicago
+Sherry,106,60728,2016-06-22,LA
+Daniel,24,55661,2022-11-30,New York City
+Alexander,99,82969,2000-11-01,Los Angeles
+Michael,1,52163,2019-10-17,Houston
+Travis,,55084,2005-01-26,LA
+John,76,97632,2021-09-12,New York City
+Kelsey,36,88166,2019-02-19,Chicago
+Tom,86,83469,2008-01-11,
+Joel,12,86145,2022-06-25,LA
+Jason,79,96041,2016-12-10,Houston
+Sara,21,78431,2018-10-05,
+David,60,66781,2022-07-25,Houston
+Paula,16,67861,2003-10-14,NYC
+Debra,97,99154,2019-01-15,Los Angeles
+Elizabeth,19,76780,2003-06-09,NYC
+Shaun,45,77952,2003-05-07,
+,10,56082,2014-06-03,Chicago
+Jeffrey,-4,55072,2016-10-22,Chicago
+Karen,37,77748,2024-04-20,Houston
+Lauren,100,98330,2009-06-19,LA
+Steven,74,96195,2013-03-18,LA
+Courtney,18,89363,2018-10-30,NYC
+James,100,69946,2011-04-22,Chicago
+Kevin,107,74298,2021-02-16,Los Angeles
+Kristopher,30,53621,2017-09-11,Houston
+Brady,79,62352,2001-06-24,Houston
+Brett,95,94481,2021-03-11,Chicago
+Stephanie,65,95504,2021-06-24,
+Ronald,-8,55748,2001-05-18,Chicago
+Nicholas,90,51969,2007-04-01,Chicago
+Sarah,60,65685,2023-01-29,NYC
+Gloria,71,77803,2024-04-08,New York City
+Victoria,58,94967,2011-08-02,
+Julie,-10,78415,2024-07-07,Houston
+Todd,,70341,2009-08-29,LA
+Tracy,91,90580,2011-05-21,NYC
+Eric,118,83714,2003-08-09,
+Paul,100,92847,2011-10-13,New York City
+Thomas,13,82248,2021-12-02,LA
+Bradley,75,62739,2000-06-29,Los Angeles
+Jessica,21,76384,2006-09-22,NYC
+Melinda,117,76701,2022-11-26,LA
+Beverly,100,79460,2005-01-30,LA
+Larry,21,77856,2001-03-21,Los Angeles
+Toni,,98678,2010-04-27,NYC
+Jesse,23,61969,2024-10-28,LA
+Danny,12,92439,2017-06-01,Chicago
+Michael,,56924,2000-08-20,NYC
+Gregory,45,61731,2013-06-24,
+Amanda,20,87959,2021-11-14,Chicago
+Tracy,61,88463,2014-02-06,Los Angeles
+Cassandra,15,83435,2014-11-22,New York City
+Aaron,81,50738,2003-10-29,Chicago
+April,101,61999,2005-11-06,Los Angeles
+Richard,103,96144,2014-08-15,LA
+Sandra,111,63823,2018-03-23,Houston
+Melissa,,54968,2001-11-10,Chicago
+Daniel,106,87892,2014-11-04,LA
+Jennifer,79,56923,2005-09-25,New York City
+Kaylee,99,59943,2004-01-10,Los Angeles
+Steven,97,80359,2015-04-15,NYC
+Christopher,58,50635,2000-06-29,Chicago
+Thomas,0,53374,2016-03-27,Houston
+Christopher,5,66202,2000-07-07,Chicago
+Joseph,84,82469,2009-11-12,New York City
+Joy,88,68195,2013-01-02,
+Stacey,27,69704,2012-01-01,New York City
+Erica,88,56452,2010-07-25,Los Angeles
+Dominique,59,92726,2002-05-07,Los Angeles
+Colleen,75,84685,2007-08-27,NYC
+Brandon,120,60563,2006-05-20,Chicago
+Joseph,24,84909,2000-03-23,Chicago
+Madison,74,78619,2022-10-10,Chicago
+Stephen,,63689,2013-02-28,LA
+Eric,76,66418,2000-11-21,Houston
+Nicholas,,92896,2019-06-09,Houston
+Allison,5,91576,2008-10-06,Houston
+Theresa,-10,65934,2020-08-22,Chicago
+Christian,70,60490,2003-12-14,
+Michael,,93973,2011-01-25,Houston
+Carla,98,90215,2023-04-15,New York City
+Bonnie,73,77591,2016-03-11,New York City
+Anthony,85,52877,2007-08-19,Houston
+Nicole,107,66942,2011-11-28,LA
+Stephen,17,65574,2004-04-01,Houston
+Nathan,25,93345,2004-07-22,New York City
+Carmen,-9,53433,2017-02-04,New York City
+Paula,-9,54881,2023-10-22,LA
+Karen,38,87876,2012-07-21,Los Angeles
+Ian,58,69765,2021-01-25,New York City
+Shannon,98,85039,2005-02-11,Los Angeles
+Rachel,-10,70178,2020-09-08,New York City
+Kimberly,46,56620,2016-01-17,Los Angeles
+Cole,67,83371,2021-10-24,New York City
+Sharon,49,98285,2008-08-29,Houston
+Dwayne,101,51493,2004-12-11,LA
+Charles,10,77429,2013-02-26,LA
+Tara,104,62827,2017-09-21,New York City
+Melinda,60,57012,2002-03-16,New York City
+Derrick,-1,70746,2018-10-22,Chicago
+Carl,87,74186,2015-08-27,New York City
+Carl,-1,84146,2002-07-05,NYC
+Jennifer,26,76917,2015-09-11,NYC
+Gregory,17,60740,2003-06-24,Los Angeles
+Kristina,105,64201,2019-04-14,
+George,29,53913,2021-08-20,New York City
+Sheila,105,56722,2003-01-28,New York City
+Nicholas,6,56189,2007-08-09,Houston
+Samantha,38,79296,2019-05-16,NYC
+Charles,-1,91623,2011-03-09,
+Lisa,63,96540,2003-04-13,Chicago
+Patrick,,77855,2023-11-27,LA
+Laura,93,60467,2021-02-09,NYC
+Charles,117,81742,2006-03-21,NYC
+Victor,62,70424,2016-08-31,Chicago
+Stephanie,53,57087,2009-01-17,New York City
+Victoria,23,76449,2019-03-01,Chicago
+Dennis,-10,78135,2022-03-15,New York City
+Christopher,,68183,2009-05-12,Chicago
+Paul,110,67121,2003-07-04,
+Ryan,78,53354,2009-04-20,New York City
+Rebecca,100,73056,2018-09-25,Chicago
+Denise,,85394,2020-04-02,NYC
+,75,59205,2015-02-16,Los Angeles
+James,,99457,2007-04-19,NYC
+Brent,55,77118,2016-03-09,Houston
+Daniel,35,78592,2001-06-23,Houston
+Bailey,108,71975,2000-02-16,New York City
+Daniel,96,81580,2018-01-15,Chicago
+Devin,19,97253,2017-11-23,Houston
+Pedro,48,76148,2015-11-14,
+Christopher,49,61070,2007-07-22,Houston
+Rachel,,86167,2006-09-05,NYC
+Crystal,114,69392,2016-12-04,New York City
+Kevin,-6,76037,2015-03-23,New York City
+Kiara,6,60698,2002-08-15,LA
+Daniel,20,56004,2007-06-16,NYC
+Patricia,70,99514,2011-12-12,Los Angeles
+Amy,111,51548,2016-04-28,LA
+Chloe,11,93423,2018-01-23,NYC
+Cheyenne,39,94634,2008-02-21,New York City
+Paul,39,73037,2017-11-30,NYC
+Jessica,48,90954,2012-01-25,Houston
+James,90,78045,2017-11-27,LA
+Tim,49,54570,2019-08-24,NYC
+Michelle,-9,68613,2016-02-13,Chicago
+Alan,112,78122,2016-03-25,Chicago
+James,91,66600,2021-07-26,Los Angeles
+Lauren,32,91856,2022-11-06,LA
+James,87,89255,2020-02-01,Houston
+Monica,112,67231,2005-08-23,Houston
+Christina,59,73018,2020-04-14,Houston
+Garrett,118,74264,2006-08-03,
+Kayla,98,55110,2023-10-19,New York City
+Jill,51,87487,2012-10-20,New York City
+Kimberly,23,77335,2004-06-02,LA
+,84,64674,2009-08-11,Los Angeles
+Matthew,71,90159,2011-03-17,LA
+Tara,25,94045,2007-11-02,LA
+Daniel,119,64965,2003-02-06,New York City
+Brian,30,95739,2008-08-16,NYC
+Brandon,62,69391,2022-06-30,LA
+Maria,-5,59511,2014-03-16,LA
+Janet,102,52468,2022-07-17,NYC
+William,32,97407,2022-04-17,NYC
+Lee,46,72528,2020-02-16,New York City
+,61,62354,2009-05-17,LA
+Keith,95,97253,2011-04-07,
+Amy,60,61042,2010-12-11,Chicago
+Andrew,109,71510,2004-05-02,Los Angeles
+Emily,104,98955,2017-10-10,LA
+Peggy,49,50900,2002-10-11,New York City
+Michael,43,81489,2018-11-17,NYC
+Penny,,88554,2006-12-20,NYC
+Micheal,119,91437,2011-02-20,Chicago
+Natasha,78,78132,2000-03-12,Chicago
+Gerald,72,84352,2007-04-18,NYC
+Katherine,82,63831,2002-11-13,Houston
+Wesley,49,81920,2009-01-05,Los Angeles
+Hailey,16,56035,2021-02-04,Houston
+Abigail,-2,51163,2002-09-01,
+Christopher,,80378,2000-08-08,LA
+Heather,90,96965,2023-08-17,Chicago
+Joseph,113,83989,2024-01-22,New York City
+Jill,-5,87962,2016-01-26,LA
+Jessica,9,65190,2021-09-07,NYC
+,109,62082,2022-03-23,LA
+Logan,44,87594,2012-02-18,New York City
+Manuel,28,95476,2022-02-15,NYC
+Glenn,47,74800,2007-03-03,Chicago
+Audrey,117,52815,2017-09-26,NYC
+Brent,12,89359,2002-03-03,LA
+Thomas,69,70657,2000-07-30,Houston
+Alison,73,77207,2001-09-12,Houston
+John,107,81782,2016-08-02,LA
+Ashley,59,77913,2015-10-18,Chicago
+Helen,29,95672,2003-01-28,Houston
+Lisa,71,53042,2023-08-12,Chicago
+Charles,48,79578,2002-02-09,Los Angeles
+Frederick,87,58349,2014-04-01,Los Angeles
+Deborah,73,61946,2011-11-23,Los Angeles
+Emily,,86392,2015-11-11,Chicago
+Robin,50,51791,2016-06-03,NYC
+Bobby,95,88980,2000-06-07,Houston
+Mercedes,62,98507,2017-05-28,Los Angeles
+Amber,7,90176,2011-07-11,Houston
+Joseph,15,87324,2000-07-06,LA
+Michelle,120,66479,2002-05-20,NYC
+Julie,61,99761,2011-05-14,LA
+Jennifer,56,83600,2019-12-05,NYC
+Scott,12,54155,2016-05-15,New York City
+Donna,54,77222,2008-10-09,Chicago
+Kevin,9,65863,2021-08-06,NYC
+Michael,42,96515,2017-10-04,NYC
+Taylor,52,51502,2000-01-20,New York City
+Charles,17,61733,2017-02-07,NYC
+Zachary,32,58902,2007-03-13,Chicago
+Jessica,112,74673,2020-11-08,LA
+Lori,,94217,2000-05-29,New York City
+Charles,41,75470,2006-11-28,Houston
+Michael,-3,84534,2025-01-29,New York City
+Cole,,83071,2017-02-10,Houston
+Justin,,70943,2002-09-15,
+Anthony,39,89960,2014-04-30,New York City
+Matthew,64,84148,2015-05-24,Houston
+Angela,80,62555,2020-09-11,Los Angeles
+Victoria,81,61545,2012-04-11,NYC
+Sarah,8,92411,2003-04-12,Chicago
+Mark,,93348,2014-06-11,New York City
+Nicholas,55,65881,2011-04-01,
+Beth,28,99966,2010-07-16,Houston
+Diana,40,58362,2016-08-05,NYC
+Keith,60,69727,2007-03-27,New York City
+Joseph,39,68629,2008-04-21,NYC
+Raymond,100,73411,2002-10-28,New York City
+Robert,95,69614,2011-11-16,NYC
+Heather,108,89192,2009-10-23,
+Elizabeth,5,99771,2012-10-15,Houston
+Bryan,12,51246,2017-04-19,Houston
+Lee,1,59741,2023-05-20,New York City
+Ann,0,99209,2004-09-01,Chicago
+Susan,-8,65504,2020-04-24,Los Angeles
+Cynthia,17,59108,2014-04-27,
+Johnny,68,77082,2009-12-25,LA
+Andrea,65,73466,2009-09-04,NYC
+,46,81295,2022-05-16,LA
+Nancy,113,91280,2000-06-27,LA
+Douglas,72,74981,2008-05-23,Chicago
+Justin,25,70586,2009-01-26,NYC
+Melinda,63,78628,2001-03-07,Houston
+Andrew,,73529,2007-08-28,New York City
+,,90737,2010-06-14,
+Tiffany,4,64567,2013-07-23,New York City
+Victoria,43,75458,2020-09-18,Chicago
+,13,86452,2018-10-28,New York City
+,61,79501,2002-01-15,NYC
+Kevin,96,86814,2018-05-02,New York City
+Timothy,48,78914,2023-08-19,Los Angeles
+Brittany,92,67712,2006-12-02,LA
+Robert,63,62866,2003-04-30,New York City
+Alexis,86,90131,2012-08-08,Houston
+Sabrina,98,77853,2007-07-01,LA
+Jonathan,45,78672,2016-01-22,LA
+Paige,31,95473,2013-11-15,LA
+Kathryn,47,65118,2010-11-20,
+Robert,,85256,2010-03-18,Chicago
+Kristy,76,76859,2012-03-16,Chicago
+Carla,,77446,2006-06-26,Chicago
+Michael,-8,81428,2013-12-19,LA
+Jonathon,32,96622,2009-07-05,Los Angeles
+,95,84514,2016-12-22,Houston
+Dale,47,61894,2011-08-02,Houston
+Sharon,86,86191,2011-12-20,Houston
+Amber,113,50588,2008-06-05,Chicago
+Hailey,,99827,2014-03-05,LA
+Chad,11,74129,2010-01-12,Chicago
+Andrew,81,50751,2006-08-10,Chicago
+Melissa,64,78932,2009-03-13,LA
+Thomas,39,93816,2007-05-08,LA
+Lisa,84,65392,2009-07-07,Los Angeles
+Kayla,107,67446,2003-09-04,Los Angeles
+Joshua,40,92673,2021-02-08,LA
+Madeline,29,79081,2016-03-09,Houston
+Tara,2,90864,2014-06-03,Los Angeles
+Robert,8,90712,2024-03-13,
+Lydia,82,59459,2003-01-13,New York City
+Evan,74,71944,2017-09-03,Houston
+Linda,5,97861,2005-11-09,
+Crystal,92,58125,2007-10-15,New York City
+Jane,58,64570,2013-12-23,LA
+Mark,59,84641,2013-09-07,LA
+Timothy,40,75412,2000-01-12,Houston
+Jessica,45,95830,2012-02-06,Los Angeles
+Kristopher,-6,74196,2019-03-18,LA
+Yvonne,102,72480,2005-03-21,New York City
+Kathleen,42,69551,2002-04-20,LA
+Tiffany,32,76108,2012-01-02,Houston
+Juan,9,96453,2008-04-07,Chicago
+Lawrence,104,82735,2000-02-24,Los Angeles
+Jeffrey,91,72947,2012-08-06,New York City
+Donna,85,92029,2020-05-26,Houston
+Allison,14,93283,2020-02-12,NYC
+David,37,52740,2022-05-29,Houston
+Angela,-5,96370,2011-03-14,NYC
+Denise,73,79093,2018-12-06,Chicago
+Eric,78,57175,2025-01-17,Los Angeles
+,45,78420,2004-12-15,New York City
+Aaron,59,61169,2005-01-11,NYC
+Alexis,92,82941,2009-01-15,NYC
+Heather,18,91521,2021-12-06,Los Angeles
+James,37,50169,2022-12-28,
+Cynthia,,98149,2009-01-07,Houston
+Robert,,81328,2014-12-13,LA
+Jason,-1,65287,2003-03-26,LA
+Darryl,79,96916,2012-04-25,Chicago
+David,,88362,2012-04-01,New York City
+Ruth,24,97045,2014-03-13,LA
+Vanessa,107,53368,2020-06-12,
+Amy,65,79294,2017-12-12,Houston
+Christine,101,99572,2005-03-19,Los Angeles
+Cody,96,91534,2006-01-02,New York City
+Brenda,,77659,2019-09-06,Los Angeles
+Rebecca,71,57756,2000-08-23,NYC
+Kendra,72,53670,2006-09-13,Chicago
+James,111,81003,2014-08-09,Houston
+Matthew,,98991,2018-02-02,Chicago
+Shawn,,53574,2012-06-28,
+Nancy,95,53912,2009-12-27,Los Angeles
+Kara,21,52915,2018-11-08,Los Angeles
+Brian,51,75723,2020-02-05,New York City
+Zachary,7,98964,2005-02-02,New York City
+Olivia,0,66689,2024-07-11,NYC
+Ronald,,88840,2005-08-23,
+John,110,94894,2011-07-08,Chicago
+Sarah,86,98277,2010-08-03,LA
+Jeremy,115,57237,2016-02-18,Chicago
+Jose,85,80948,2023-12-12,New York City
+Kevin,112,95243,2019-10-31,New York City
+Joseph,104,95107,2020-02-23,
+Amber,,65325,2015-02-22,Los Angeles
+Scott,102,69824,2017-02-13,Los Angeles
+Greg,103,77605,2001-09-23,LA
+Marissa,77,77609,2004-04-11,NYC
+Leslie,68,76733,2005-03-22,Houston
+Rhonda,81,95296,2010-12-28,Los Angeles
+Felicia,,96264,2003-08-13,Houston
+Jacqueline,9,73170,2001-06-29,LA
+Terri,78,52857,2012-02-01,
+Angela,90,81487,2013-12-12,NYC
+Pamela,19,70255,2009-08-24,Los Angeles
+Lori,93,81130,2017-08-04,
+Brandy,,52095,2020-08-02,Los Angeles
+,60,70561,2003-06-01,Chicago
+Nicole,-8,91935,2023-10-16,New York City
+Dwayne,8,63476,2014-10-14,New York City
+,56,76970,2021-10-18,Chicago
+Jesse,2,80128,2018-08-10,LA
+Anthony,71,63378,2016-03-14,Los Angeles
+Clinton,54,54234,2011-12-28,New York City
+Jamie,89,84736,2010-07-16,Houston
+Eric,88,63048,2020-07-29,LA
+Ashley,94,64628,2009-01-05,LA
+Elizabeth,,99937,2021-02-11,
+George,,69886,2003-04-27,Chicago
+Angela,61,89450,2002-11-14,Los Angeles
+Shane,4,51293,2020-06-05,LA
+Robert,71,65885,2006-10-26,New York City
+Laura,13,62218,2017-12-04,Chicago
+Crystal,,97407,2004-01-13,
+Alex,22,85861,2006-10-02,Chicago
+Christopher,6,90186,2012-01-04,LA
+Victoria,57,53487,2007-09-16,Los Angeles
+Christopher,21,86035,2020-05-05,LA
+Denise,,50345,2003-09-13,New York City
+Derek,108,85720,2024-10-24,LA
+Sarah,77,78331,2024-02-18,New York City
+Linda,112,66129,2014-03-28,Los Angeles
+Clarence,0,60869,2012-10-10,Los Angeles
+Yolanda,97,53540,2023-03-05,LA
+,-1,99550,2021-07-09,
+Sherry,112,75272,2000-09-04,New York City
+Brian,27,71320,2002-05-20,Houston
+Allison,92,86603,2023-05-01,Chicago
+Brian,57,79605,2023-02-07,NYC
+Stephanie,111,56297,2012-03-25,Houston
+Courtney,79,59922,2012-12-03,Houston
+Luis,46,53226,2012-05-22,Chicago
+Beth,,74403,2005-11-18,New York City
+Jennifer,110,55615,2022-08-07,Houston
+Jessica,90,88077,2011-06-14,Los Angeles
+Holly,39,51644,2007-01-27,Los Angeles
+Lori,43,91026,2010-05-16,LA
+Shawn,118,78213,2021-11-29,New York City
+Walter,32,62856,2017-12-27,New York City
+Spencer,99,86444,2008-06-16,LA
+Douglas,27,74689,2007-11-18,Houston
+David,,50509,2005-07-17,NYC
+Alexandra,102,91353,2017-02-01,Los Angeles
+Jack,74,91989,2014-06-20,Houston
+David,47,76166,2017-07-28,Los Angeles
+Dustin,70,64477,2012-09-21,LA
+Pam,17,79402,2016-06-17,Houston
+Danny,67,80892,2002-06-24,Chicago
+Daniel,114,53265,2016-06-13,
+Rachel,85,85708,2020-06-03,Los Angeles
+Paul,47,79424,2015-09-11,NYC
+Denise,61,97509,2015-05-13,New York City
+Darlene,29,98286,2001-05-21,Los Angeles
+Thomas,90,76961,2014-08-16,Houston
+Troy,43,81708,2018-09-26,LA
+John,-5,54105,2021-04-01,Los Angeles
+Stefanie,10,56519,2024-09-19,New York City
+,90,83673,2013-11-29,Chicago
+Frank,2,58438,2003-05-08,Houston
+Larry,8,51696,2003-01-15,Houston
+Carmen,,58903,2005-09-27,Houston
+David,,87523,2013-10-06,NYC
+Tanya,50,53782,2007-05-08,Los Angeles
+Misty,63,95274,2003-08-08,Los Angeles
+Amber,11,94689,2020-04-16,Houston
+Jennifer,-5,54067,2019-03-12,Chicago
+James,41,78366,2003-11-14,Los Angeles
+Jennifer,95,93292,2009-01-01,LA
+Jeffery,114,73548,2000-03-07,
+Sarah,10,81626,2002-03-22,LA
+James,0,83492,2015-05-10,Los Angeles
+Donald,-1,58992,2017-12-23,New York City
+Lori,58,92885,2022-01-22,
+Lauren,48,51320,2010-05-09,Los Angeles
+Justin,67,64577,2008-08-07,Chicago
+Virginia,47,60849,2018-08-01,LA
+Richard,107,52319,2007-08-02,NYC
+Ashley,,97790,2017-10-03,New York City
+Sarah,114,95325,2009-01-13,Chicago
+Katrina,1,77503,2021-06-18,
+Emily,67,74190,2000-05-03,Houston
+Deborah,,82197,2024-06-08,Chicago
+Jennifer,-7,96137,2008-09-11,New York City
+Daniel,55,52661,2007-09-04,LA
+,,82244,2024-06-06,Los Angeles
+Susan,98,61381,2007-04-28,New York City
+Jennifer,118,89436,2009-06-03,Chicago
+Margaret,106,77267,2008-03-07,New York City
+William,81,99634,2017-07-09,Chicago
+Edward,81,90272,2014-11-23,LA
+Joseph,,99228,2009-12-06,New York City
+Curtis,-6,70600,2006-08-19,Los Angeles
+Kenneth,50,54848,2010-06-09,Los Angeles
+Derrick,45,60377,2013-10-05,New York City
+Kenneth,27,94812,2001-02-17,
+Brian,78,92676,2002-10-13,
+Shawn,25,97559,2002-01-02,NYC
+Kristina,38,80256,2016-10-20,Chicago
+David,58,80204,2009-12-30,New York City
+Jaclyn,29,74367,2002-05-28,NYC
+Kelly,-3,51512,2016-05-10,Houston
+Shannon,107,65384,2023-05-18,LA
+Jennifer,8,52482,2009-03-24,Houston
+Joshua,24,71420,2009-03-18,NYC
+Bridget,113,84954,2013-12-11,New York City
+David,98,78604,2017-07-06,New York City
+April,26,96774,2025-01-31,Chicago
+Heather,98,55219,2021-12-03,New York City
+Lindsay,26,94819,2006-05-26,Chicago
+Anthony,86,68491,2003-03-24,Chicago
+Linda,46,55884,2016-10-05,
+Kevin,-1,62760,2013-02-03,New York City
+Mark,32,64911,2008-11-24,New York City
+Kimberly,-9,77106,2024-06-07,NYC
+David,68,57815,2002-08-07,Los Angeles
+Joseph,66,94671,2018-09-03,NYC
+Bryan,88,90304,2015-02-09,LA
+Wendy,51,86686,2023-03-17,New York City
+Steve,82,50809,2006-10-01,
+Sean,71,67741,2011-08-29,NYC
+Kathleen,57,91121,2023-06-02,Chicago
+Katherine,110,78711,2017-10-01,LA
+Kathy,,67249,2006-10-10,Chicago
+Brent,,87608,2007-08-06,NYC
+Joseph,34,65600,2010-11-20,Chicago
+Sarah,-1,93884,2021-06-05,Chicago
+April,22,66933,2021-11-09,
+Sharon,120,77361,2009-07-25,LA
+Larry,104,84461,2003-11-26,New York City
