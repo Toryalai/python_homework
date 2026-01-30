@@ -1,0 +1,3 @@
+The main challenge was that the original OWASP project page no longer contained the Top 10 list. 
+I resolved this by locating the correct 2025 Top 10 page (https://owasp.org/Top10/2025/) and adjusting the XPath to match the updated URL structure. 
+I also verified the extracted elements by printing them before writing to the CSV file.
